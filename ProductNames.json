@@ -1,0 +1,3002 @@
+[
+  {
+    "name": "Converse Sandals",
+    "description": "Sandals by Converse, comfortable and durable.",
+    "basePrice": 34.04
+  },
+  {
+    "name": "Nike Blue T-Shirt",
+    "description": "Blue T-Shirt by Nike.",
+    "basePrice": 24.87
+  },
+  {
+    "name": "Whiskas Snacks Beef 3kg",
+    "description": "Snacks for pets with Beef flavour (3kg).",
+    "basePrice": 41.54
+  },
+  {
+    "name": "Converse Sneakers",
+    "description": "Sneakers by Converse, comfortable and durable.",
+    "basePrice": 209.55
+  },
+  {
+    "name": "Puma Grey Hoodie",
+    "description": "Grey Hoodie by Puma.",
+    "basePrice": 55.63
+  },
+  {
+    "name": "Adidas Sandals",
+    "description": "Sandals by Adidas, comfortable and durable.",
+    "basePrice": 99.11
+  },
+  {
+    "name": "Converse Running Shoes",
+    "description": "Running Shoes by Converse, comfortable and durable.",
+    "basePrice": 64.56
+  },
+  {
+    "name": "Pedigree Cat Food Beef 1kg",
+    "description": "Cat Food for pets with Beef flavour (1kg).",
+    "basePrice": 37.13
+  },
+  {
+    "name": "Nike Running Shoes",
+    "description": "Running Shoes by Nike, comfortable and durable.",
+    "basePrice": 225.48
+  },
+  {
+    "name": "Xiaomi Tablet 256GB",
+    "description": "Xiaomi Tablet with 256GB configuration.",
+    "basePrice": 787.47
+  },
+  {
+    "name": "LG TV Max",
+    "description": "LG TV with Max configuration.",
+    "basePrice": 1532.25
+  },
+  {
+    "name": "Reebok Blue T-Shirt",
+    "description": "Blue T-Shirt by Reebok.",
+    "basePrice": 51.96
+  },
+  {
+    "name": "New Balance Sandals",
+    "description": "Sandals by New Balance, comfortable and durable.",
+    "basePrice": 72.09
+  },
+  {
+    "name": "Vans Sneakers",
+    "description": "Sneakers by Vans, comfortable and durable.",
+    "basePrice": 183.43
+  },
+  {
+    "name": "Reebok Blue Jacket",
+    "description": "Blue Jacket by Reebok.",
+    "basePrice": 123.51
+  },
+  {
+    "name": "Converse Sneakers",
+    "description": "Sneakers by Converse, comfortable and durable.",
+    "basePrice": 231.18
+  },
+  {
+    "name": "Whiskas Dog Food Beef 3kg",
+    "description": "Dog Food for pets with Beef flavour (3kg).",
+    "basePrice": 57.52
+  },
+  {
+    "name": "Puma Grey Hoodie",
+    "description": "Grey Hoodie by Puma.",
+    "basePrice": 89.15
+  },
+  {
+    "name": "Royal Canin Cat Food Chicken 4kg",
+    "description": "Cat Food for pets with Chicken flavour (4kg).",
+    "basePrice": 11.5
+  },
+  {
+    "name": "Xiaomi Smartwatch Max",
+    "description": "Xiaomi Smartwatch with Max configuration.",
+    "basePrice": 1621.72
+  },
+  {
+    "name": "Huawei Laptop Mini",
+    "description": "Huawei Laptop with Mini configuration.",
+    "basePrice": 2386.8
+  },
+  {
+    "name": "Zara White Hoodie",
+    "description": "White Hoodie by Zara.",
+    "basePrice": 49.72
+  },
+  {
+    "name": "Zara Blue Hoodie",
+    "description": "Blue Hoodie by Zara.",
+    "basePrice": 53.44
+  },
+  {
+    "name": "Converse Boots",
+    "description": "Boots by Converse, comfortable and durable.",
+    "basePrice": 169.05
+  },
+  {
+    "name": "Nike Red Jeans",
+    "description": "Red Jeans by Nike.",
+    "basePrice": 17.03
+  },
+  {
+    "name": "Pedigree Dog Food Chicken 4kg",
+    "description": "Dog Food for pets with Chicken flavour (4kg).",
+    "basePrice": 53.32
+  },
+  {
+    "name": "Samsung Tablet Ultra",
+    "description": "Samsung Tablet with Ultra configuration.",
+    "basePrice": 2286.2
+  },
+  {
+    "name": "Xiaomi Smartwatch Mini",
+    "description": "Xiaomi Smartwatch with Mini configuration.",
+    "basePrice": 1820.7
+  },
+  {
+    "name": "Vans Boots",
+    "description": "Boots by Vans, comfortable and durable.",
+    "basePrice": 180.19
+  },
+  {
+    "name": "Pedigree Snacks Salmon 2kg",
+    "description": "Snacks for pets with Salmon flavour (2kg).",
+    "basePrice": 10.22
+  },
+  {
+    "name": "Samsung Tablet 256GB",
+    "description": "Samsung Tablet with 256GB configuration.",
+    "basePrice": 1480.74
+  },
+  {
+    "name": "Zara Green Hoodie",
+    "description": "Green Hoodie by Zara.",
+    "basePrice": 141.74
+  },
+  {
+    "name": "Samsung Headphones 128GB",
+    "description": "Samsung Headphones with 128GB configuration.",
+    "basePrice": 2454.98
+  },
+  {
+    "name": "H&M Red Jacket",
+    "description": "Red Jacket by H&M.",
+    "basePrice": 149.48
+  },
+  {
+    "name": "Reebok Grey T-Shirt",
+    "description": "Grey T-Shirt by Reebok.",
+    "basePrice": 55.37
+  },
+  {
+    "name": "Apple Tablet Mini",
+    "description": "Apple Tablet with Mini configuration.",
+    "basePrice": 847.24
+  },
+  {
+    "name": "Nike Sandals",
+    "description": "Sandals by Nike, comfortable and durable.",
+    "basePrice": 179.67
+  },
+  {
+    "name": "Converse Running Shoes",
+    "description": "Running Shoes by Converse, comfortable and durable.",
+    "basePrice": 214.48
+  },
+  {
+    "name": "H&M Grey Shorts",
+    "description": "Grey Shorts by H&M.",
+    "basePrice": 42.74
+  },
+  {
+    "name": "Vans Sandals",
+    "description": "Sandals by Vans, comfortable and durable.",
+    "basePrice": 96.77
+  },
+  {
+    "name": "Converse Sandals",
+    "description": "Sandals by Converse, comfortable and durable.",
+    "basePrice": 69.79
+  },
+  {
+    "name": "Whiskas Dog Food Turkey 3kg",
+    "description": "Dog Food for pets with Turkey flavour (3kg).",
+    "basePrice": 44.51
+  },
+  {
+    "name": "Reebok Red T-Shirt",
+    "description": "Red T-Shirt by Reebok.",
+    "basePrice": 71.02
+  },
+  {
+    "name": "Reebok Grey Hoodie",
+    "description": "Grey Hoodie by Reebok.",
+    "basePrice": 126.99
+  },
+  {
+    "name": "Royal Canin Snacks Beef 2kg",
+    "description": "Snacks for pets with Beef flavour (2kg).",
+    "basePrice": 17.74
+  },
+  {
+    "name": "Pedigree Cat Food Turkey 5kg",
+    "description": "Cat Food for pets with Turkey flavour (5kg).",
+    "basePrice": 23.11
+  },
+  {
+    "name": "Sony Tablet 128GB",
+    "description": "Sony Tablet with 128GB configuration.",
+    "basePrice": 687.67
+  },
+  {
+    "name": "Royal Canin Cat Food Beef 5kg",
+    "description": "Cat Food for pets with Beef flavour (5kg).",
+    "basePrice": 47.26
+  },
+  {
+    "name": "Royal Canin Snacks Salmon 3kg",
+    "description": "Snacks for pets with Salmon flavour (3kg).",
+    "basePrice": 51.2
+  },
+  {
+    "name": "Adidas Running Shoes",
+    "description": "Running Shoes by Adidas, comfortable and durable.",
+    "basePrice": 242.74
+  },
+  {
+    "name": "Nike Sneakers",
+    "description": "Sneakers by Nike, comfortable and durable.",
+    "basePrice": 130.46
+  },
+  {
+    "name": "Reebok Blue T-Shirt",
+    "description": "Blue T-Shirt by Reebok.",
+    "basePrice": 105.39
+  },
+  {
+    "name": "Reebok Red T-Shirt",
+    "description": "Red T-Shirt by Reebok.",
+    "basePrice": 84.41
+  },
+  {
+    "name": "Puma Blue T-Shirt",
+    "description": "Blue T-Shirt by Puma.",
+    "basePrice": 142.05
+  },
+  {
+    "name": "Vans Sandals",
+    "description": "Sandals by Vans, comfortable and durable.",
+    "basePrice": 68.66
+  },
+  {
+    "name": "Whiskas Snacks Turkey 2kg",
+    "description": "Snacks for pets with Turkey flavour (2kg).",
+    "basePrice": 29.66
+  },
+  {
+    "name": "Pedigree Snacks Salmon 4kg",
+    "description": "Snacks for pets with Salmon flavour (4kg).",
+    "basePrice": 21.64
+  },
+  {
+    "name": "Vans Sandals",
+    "description": "Sandals by Vans, comfortable and durable.",
+    "basePrice": 110.49
+  },
+  {
+    "name": "Sony Laptop Mini",
+    "description": "Sony Laptop with Mini configuration.",
+    "basePrice": 751.15
+  },
+  {
+    "name": "LG Smartphone Ultra",
+    "description": "LG Smartphone with Ultra configuration.",
+    "basePrice": 1979.79
+  },
+  {
+    "name": "New Balance Boots",
+    "description": "Boots by New Balance, comfortable and durable.",
+    "basePrice": 141.23
+  },
+  {
+    "name": "Vans Boots",
+    "description": "Boots by Vans, comfortable and durable.",
+    "basePrice": 103.71
+  },
+  {
+    "name": "Apple TV Ultra",
+    "description": "Apple TV with Ultra configuration.",
+    "basePrice": 1633.26
+  },
+  {
+    "name": "Pedigree Snacks Chicken 3kg",
+    "description": "Snacks for pets with Chicken flavour (3kg).",
+    "basePrice": 48.76
+  },
+  {
+    "name": "Puma Blue Shorts",
+    "description": "Blue Shorts by Puma.",
+    "basePrice": 43.29
+  },
+  {
+    "name": "Converse Sneakers",
+    "description": "Sneakers by Converse, comfortable and durable.",
+    "basePrice": 129.57
+  },
+  {
+    "name": "Whiskas Snacks Salmon 3kg",
+    "description": "Snacks for pets with Salmon flavour (3kg).",
+    "basePrice": 57.96
+  },
+  {
+    "name": "Adidas Red Jacket",
+    "description": "Red Jacket by Adidas.",
+    "basePrice": 54.24
+  },
+  {
+    "name": "Nike Blue T-Shirt",
+    "description": "Blue T-Shirt by Nike.",
+    "basePrice": 47.32
+  },
+  {
+    "name": "Whiskas Cat Food Turkey 3kg",
+    "description": "Cat Food for pets with Turkey flavour (3kg).",
+    "basePrice": 16.52
+  },
+  {
+    "name": "Huawei Smartwatch 256GB",
+    "description": "Huawei Smartwatch with 256GB configuration.",
+    "basePrice": 2313.65
+  },
+  {
+    "name": "Huawei Headphones Pro",
+    "description": "Huawei Headphones with Pro configuration.",
+    "basePrice": 1365.57
+  },
+  {
+    "name": "Samsung Smartphone Max",
+    "description": "Samsung Smartphone with Max configuration.",
+    "basePrice": 1234.85
+  },
+  {
+    "name": "Adidas Running Shoes",
+    "description": "Running Shoes by Adidas, comfortable and durable.",
+    "basePrice": 219.19
+  },
+  {
+    "name": "Apple Smartwatch Ultra",
+    "description": "Apple Smartwatch with Ultra configuration.",
+    "basePrice": 1007.84
+  },
+  {
+    "name": "Vans Sneakers",
+    "description": "Sneakers by Vans, comfortable and durable.",
+    "basePrice": 100.69
+  },
+  {
+    "name": "Adidas Sneakers",
+    "description": "Sneakers by Adidas, comfortable and durable.",
+    "basePrice": 187.3
+  },
+  {
+    "name": "Zara Black T-Shirt",
+    "description": "Black T-Shirt by Zara.",
+    "basePrice": 136.7
+  },
+  {
+    "name": "Zara Black Jacket",
+    "description": "Black Jacket by Zara.",
+    "basePrice": 140.81
+  },
+  {
+    "name": "New Balance Boots",
+    "description": "Boots by New Balance, comfortable and durable.",
+    "basePrice": 30.72
+  },
+  {
+    "name": "H&M Blue Shorts",
+    "description": "Blue Shorts by H&M.",
+    "basePrice": 103.38
+  },
+  {
+    "name": "Nike Sneakers",
+    "description": "Sneakers by Nike, comfortable and durable.",
+    "basePrice": 55.07
+  },
+  {
+    "name": "Apple Tablet 256GB",
+    "description": "Apple Tablet with 256GB configuration.",
+    "basePrice": 587.7
+  },
+  {
+    "name": "Sony TV Pro",
+    "description": "Sony TV with Pro configuration.",
+    "basePrice": 1279.53
+  },
+  {
+    "name": "Adidas Sneakers",
+    "description": "Sneakers by Adidas, comfortable and durable.",
+    "basePrice": 193.55
+  },
+  {
+    "name": "Pedigree Snacks Beef 2kg",
+    "description": "Snacks for pets with Beef flavour (2kg).",
+    "basePrice": 5.78
+  },
+  {
+    "name": "New Balance Sneakers",
+    "description": "Sneakers by New Balance, comfortable and durable.",
+    "basePrice": 158.21
+  },
+  {
+    "name": "Nike Black Jeans",
+    "description": "Black Jeans by Nike.",
+    "basePrice": 91.18
+  },
+  {
+    "name": "Nike Sandals",
+    "description": "Sandals by Nike, comfortable and durable.",
+    "basePrice": 202.87
+  },
+  {
+    "name": "New Balance Sandals",
+    "description": "Sandals by New Balance, comfortable and durable.",
+    "basePrice": 74.71
+  },
+  {
+    "name": "LG TV Ultra",
+    "description": "LG TV with Ultra configuration.",
+    "basePrice": 2125.56
+  },
+  {
+    "name": "Royal Canin Snacks Turkey 4kg",
+    "description": "Snacks for pets with Turkey flavour (4kg).",
+    "basePrice": 6.57
+  },
+  {
+    "name": "Huawei Laptop Ultra",
+    "description": "Huawei Laptop with Ultra configuration.",
+    "basePrice": 1358.45
+  },
+  {
+    "name": "Pedigree Dog Food Beef 3kg",
+    "description": "Dog Food for pets with Beef flavour (3kg).",
+    "basePrice": 57.23
+  },
+  {
+    "name": "Zara White T-Shirt",
+    "description": "White T-Shirt by Zara.",
+    "basePrice": 123.06
+  },
+  {
+    "name": "Xiaomi Headphones Mini",
+    "description": "Xiaomi Headphones with Mini configuration.",
+    "basePrice": 2262.74
+  },
+  {
+    "name": "Reebok Red Jeans",
+    "description": "Red Jeans by Reebok.",
+    "basePrice": 123.4
+  },
+  {
+    "name": "Royal Canin Cat Food Chicken 5kg",
+    "description": "Cat Food for pets with Chicken flavour (5kg).",
+    "basePrice": 36.33
+  },
+  {
+    "name": "Xiaomi Smartwatch Pro",
+    "description": "Xiaomi Smartwatch with Pro configuration.",
+    "basePrice": 1197.75
+  },
+  {
+    "name": "Pedigree Snacks Salmon 3kg",
+    "description": "Snacks for pets with Salmon flavour (3kg).",
+    "basePrice": 30.17
+  },
+  {
+    "name": "Nike Grey T-Shirt",
+    "description": "Grey T-Shirt by Nike.",
+    "basePrice": 50.8
+  },
+  {
+    "name": "LG Laptop Pro",
+    "description": "LG Laptop with Pro configuration.",
+    "basePrice": 572.88
+  },
+  {
+    "name": "Pedigree Dog Food Salmon 4kg",
+    "description": "Dog Food for pets with Salmon flavour (4kg).",
+    "basePrice": 41.99
+  },
+  {
+    "name": "Purina Cat Food Chicken 1kg",
+    "description": "Cat Food for pets with Chicken flavour (1kg).",
+    "basePrice": 10.55
+  },
+  {
+    "name": "Converse Sandals",
+    "description": "Sandals by Converse, comfortable and durable.",
+    "basePrice": 89.54
+  },
+  {
+    "name": "New Balance Boots",
+    "description": "Boots by New Balance, comfortable and durable.",
+    "basePrice": 181.46
+  },
+  {
+    "name": "Pedigree Snacks Salmon 4kg",
+    "description": "Snacks for pets with Salmon flavour (4kg).",
+    "basePrice": 58.1
+  },
+  {
+    "name": "New Balance Sandals",
+    "description": "Sandals by New Balance, comfortable and durable.",
+    "basePrice": 209.01
+  },
+  {
+    "name": "Vans Sandals",
+    "description": "Sandals by Vans, comfortable and durable.",
+    "basePrice": 47.27
+  },
+  {
+    "name": "Purina Cat Food Salmon 3kg",
+    "description": "Cat Food for pets with Salmon flavour (3kg).",
+    "basePrice": 58.41
+  },
+  {
+    "name": "H&M Blue Jacket",
+    "description": "Blue Jacket by H&M.",
+    "basePrice": 103.55
+  },
+  {
+    "name": "Nike Running Shoes",
+    "description": "Running Shoes by Nike, comfortable and durable.",
+    "basePrice": 86.91
+  },
+  {
+    "name": "Adidas Sandals",
+    "description": "Sandals by Adidas, comfortable and durable.",
+    "basePrice": 168.9
+  },
+  {
+    "name": "Royal Canin Cat Food Beef 2kg",
+    "description": "Cat Food for pets with Beef flavour (2kg).",
+    "basePrice": 15.36
+  },
+  {
+    "name": "Puma Green Jeans",
+    "description": "Green Jeans by Puma.",
+    "basePrice": 112.12
+  },
+  {
+    "name": "Vans Running Shoes",
+    "description": "Running Shoes by Vans, comfortable and durable.",
+    "basePrice": 205.31
+  },
+  {
+    "name": "Adidas Sneakers",
+    "description": "Sneakers by Adidas, comfortable and durable.",
+    "basePrice": 180.19
+  },
+  {
+    "name": "Xiaomi Tablet 128GB",
+    "description": "Xiaomi Tablet with 128GB configuration.",
+    "basePrice": 1321.82
+  },
+  {
+    "name": "New Balance Boots",
+    "description": "Boots by New Balance, comfortable and durable.",
+    "basePrice": 144.78
+  },
+  {
+    "name": "Adidas Sandals",
+    "description": "Sandals by Adidas, comfortable and durable.",
+    "basePrice": 94.58
+  },
+  {
+    "name": "Reebok Blue Jeans",
+    "description": "Blue Jeans by Reebok.",
+    "basePrice": 135.86
+  },
+  {
+    "name": "H&M Blue Jacket",
+    "description": "Blue Jacket by H&M.",
+    "basePrice": 56.82
+  },
+  {
+    "name": "Zara Grey Jacket",
+    "description": "Grey Jacket by Zara.",
+    "basePrice": 91.27
+  },
+  {
+    "name": "Purina Cat Food Salmon 1kg",
+    "description": "Cat Food for pets with Salmon flavour (1kg).",
+    "basePrice": 51.18
+  },
+  {
+    "name": "Adidas White Shorts",
+    "description": "White Shorts by Adidas.",
+    "basePrice": 95.93
+  },
+  {
+    "name": "Samsung Smartwatch 256GB",
+    "description": "Samsung Smartwatch with 256GB configuration.",
+    "basePrice": 999.99
+  },
+  {
+    "name": "Nike Grey Shorts",
+    "description": "Grey Shorts by Nike.",
+    "basePrice": 59.54
+  },
+  {
+    "name": "Adidas Red Shorts",
+    "description": "Red Shorts by Adidas.",
+    "basePrice": 116.58
+  },
+  {
+    "name": "Samsung Smartphone Pro",
+    "description": "Samsung Smartphone with Pro configuration.",
+    "basePrice": 796.69
+  },
+  {
+    "name": "Zara Grey T-Shirt",
+    "description": "Grey T-Shirt by Zara.",
+    "basePrice": 89.91
+  },
+  {
+    "name": "Samsung Laptop Max",
+    "description": "Samsung Laptop with Max configuration.",
+    "basePrice": 1497.92
+  },
+  {
+    "name": "New Balance Sneakers",
+    "description": "Sneakers by New Balance, comfortable and durable.",
+    "basePrice": 98.81
+  },
+  {
+    "name": "Whiskas Snacks Turkey 2kg",
+    "description": "Snacks for pets with Turkey flavour (2kg).",
+    "basePrice": 32.16
+  },
+  {
+    "name": "Nike Sneakers",
+    "description": "Sneakers by Nike, comfortable and durable.",
+    "basePrice": 51.24
+  },
+  {
+    "name": "Whiskas Snacks Chicken 5kg",
+    "description": "Snacks for pets with Chicken flavour (5kg).",
+    "basePrice": 22.1
+  },
+  {
+    "name": "Royal Canin Dog Food Salmon 5kg",
+    "description": "Dog Food for pets with Salmon flavour (5kg).",
+    "basePrice": 18.36
+  },
+  {
+    "name": "H&M White T-Shirt",
+    "description": "White T-Shirt by H&M.",
+    "basePrice": 138.32
+  },
+  {
+    "name": "Samsung Laptop Ultra",
+    "description": "Samsung Laptop with Ultra configuration.",
+    "basePrice": 1805.37
+  },
+  {
+    "name": "Samsung Smartwatch Max",
+    "description": "Samsung Smartwatch with Max configuration.",
+    "basePrice": 563.76
+  },
+  {
+    "name": "Nike White Shorts",
+    "description": "White Shorts by Nike.",
+    "basePrice": 130.98
+  },
+  {
+    "name": "Nike White T-Shirt",
+    "description": "White T-Shirt by Nike.",
+    "basePrice": 99.24
+  },
+  {
+    "name": "Converse Sneakers",
+    "description": "Sneakers by Converse, comfortable and durable.",
+    "basePrice": 139.31
+  },
+  {
+    "name": "Apple Tablet 64GB",
+    "description": "Apple Tablet with 64GB configuration.",
+    "basePrice": 767.04
+  },
+  {
+    "name": "New Balance Boots",
+    "description": "Boots by New Balance, comfortable and durable.",
+    "basePrice": 103.37
+  },
+  {
+    "name": "Whiskas Snacks Salmon 2kg",
+    "description": "Snacks for pets with Salmon flavour (2kg).",
+    "basePrice": 54.49
+  },
+  {
+    "name": "Samsung TV Ultra",
+    "description": "Samsung TV with Ultra configuration.",
+    "basePrice": 1115.59
+  },
+  {
+    "name": "Sony Tablet 64GB",
+    "description": "Sony Tablet with 64GB configuration.",
+    "basePrice": 1844.16
+  },
+  {
+    "name": "Nike Running Shoes",
+    "description": "Running Shoes by Nike, comfortable and durable.",
+    "basePrice": 116.8
+  },
+  {
+    "name": "Whiskas Snacks Salmon 3kg",
+    "description": "Snacks for pets with Salmon flavour (3kg).",
+    "basePrice": 12.23
+  },
+  {
+    "name": "Purina Dog Food Beef 5kg",
+    "description": "Dog Food for pets with Beef flavour (5kg).",
+    "basePrice": 20.33
+  },
+  {
+    "name": "Adidas Boots",
+    "description": "Boots by Adidas, comfortable and durable.",
+    "basePrice": 60.15
+  },
+  {
+    "name": "Sony TV Pro",
+    "description": "Sony TV with Pro configuration.",
+    "basePrice": 2400.76
+  },
+  {
+    "name": "H&M Black T-Shirt",
+    "description": "Black T-Shirt by H&M.",
+    "basePrice": 108.51
+  },
+  {
+    "name": "Samsung Smartphone 128GB",
+    "description": "Samsung Smartphone with 128GB configuration.",
+    "basePrice": 2077.64
+  },
+  {
+    "name": "Royal Canin Snacks Chicken 4kg",
+    "description": "Snacks for pets with Chicken flavour (4kg).",
+    "basePrice": 18.76
+  },
+  {
+    "name": "Adidas Boots",
+    "description": "Boots by Adidas, comfortable and durable.",
+    "basePrice": 216.55
+  },
+  {
+    "name": "Converse Sneakers",
+    "description": "Sneakers by Converse, comfortable and durable.",
+    "basePrice": 244.48
+  },
+  {
+    "name": "Reebok Blue Hoodie",
+    "description": "Blue Hoodie by Reebok.",
+    "basePrice": 142.75
+  },
+  {
+    "name": "Whiskas Cat Food Beef 3kg",
+    "description": "Cat Food for pets with Beef flavour (3kg).",
+    "basePrice": 40.75
+  },
+  {
+    "name": "Reebok Black Hoodie",
+    "description": "Black Hoodie by Reebok.",
+    "basePrice": 109.95
+  },
+  {
+    "name": "Puma Grey Hoodie",
+    "description": "Grey Hoodie by Puma.",
+    "basePrice": 59.94
+  },
+  {
+    "name": "New Balance Running Shoes",
+    "description": "Running Shoes by New Balance, comfortable and durable.",
+    "basePrice": 240.6
+  },
+  {
+    "name": "Pedigree Dog Food Salmon 2kg",
+    "description": "Dog Food for pets with Salmon flavour (2kg).",
+    "basePrice": 25.53
+  },
+  {
+    "name": "New Balance Sandals",
+    "description": "Sandals by New Balance, comfortable and durable.",
+    "basePrice": 34.96
+  },
+  {
+    "name": "New Balance Boots",
+    "description": "Boots by New Balance, comfortable and durable.",
+    "basePrice": 197.51
+  },
+  {
+    "name": "Samsung Smartwatch Max",
+    "description": "Samsung Smartwatch with Max configuration.",
+    "basePrice": 505.34
+  },
+  {
+    "name": "Pedigree Snacks Beef 2kg",
+    "description": "Snacks for pets with Beef flavour (2kg).",
+    "basePrice": 31.12
+  },
+  {
+    "name": "New Balance Sandals",
+    "description": "Sandals by New Balance, comfortable and durable.",
+    "basePrice": 143.33
+  },
+  {
+    "name": "Royal Canin Dog Food Beef 4kg",
+    "description": "Dog Food for pets with Beef flavour (4kg).",
+    "basePrice": 27.92
+  },
+  {
+    "name": "Pedigree Cat Food Salmon 5kg",
+    "description": "Cat Food for pets with Salmon flavour (5kg).",
+    "basePrice": 6.6
+  },
+  {
+    "name": "Vans Sandals",
+    "description": "Sandals by Vans, comfortable and durable.",
+    "basePrice": 83.03
+  },
+  {
+    "name": "Purina Dog Food Salmon 2kg",
+    "description": "Dog Food for pets with Salmon flavour (2kg).",
+    "basePrice": 16.84
+  },
+  {
+    "name": "Xiaomi Tablet Ultra",
+    "description": "Xiaomi Tablet with Ultra configuration.",
+    "basePrice": 918.67
+  },
+  {
+    "name": "Pedigree Snacks Salmon 4kg",
+    "description": "Snacks for pets with Salmon flavour (4kg).",
+    "basePrice": 37.42
+  },
+  {
+    "name": "Adidas Running Shoes",
+    "description": "Running Shoes by Adidas, comfortable and durable.",
+    "basePrice": 34.12
+  },
+  {
+    "name": "New Balance Running Shoes",
+    "description": "Running Shoes by New Balance, comfortable and durable.",
+    "basePrice": 216.63
+  },
+  {
+    "name": "Converse Sneakers",
+    "description": "Sneakers by Converse, comfortable and durable.",
+    "basePrice": 36.3
+  },
+  {
+    "name": "New Balance Sandals",
+    "description": "Sandals by New Balance, comfortable and durable.",
+    "basePrice": 190.84
+  },
+  {
+    "name": "Reebok White Jacket",
+    "description": "White Jacket by Reebok.",
+    "basePrice": 66.89
+  },
+  {
+    "name": "Xiaomi Smartwatch Ultra",
+    "description": "Xiaomi Smartwatch with Ultra configuration.",
+    "basePrice": 1723.46
+  },
+  {
+    "name": "Samsung TV 256GB",
+    "description": "Samsung TV with 256GB configuration.",
+    "basePrice": 1641.37
+  },
+  {
+    "name": "Adidas Sneakers",
+    "description": "Sneakers by Adidas, comfortable and durable.",
+    "basePrice": 232.8
+  },
+  {
+    "name": "Pedigree Cat Food Beef 1kg",
+    "description": "Cat Food for pets with Beef flavour (1kg).",
+    "basePrice": 43.64
+  },
+  {
+    "name": "Royal Canin Cat Food Beef 1kg",
+    "description": "Cat Food for pets with Beef flavour (1kg).",
+    "basePrice": 46.43
+  },
+  {
+    "name": "Royal Canin Snacks Salmon 5kg",
+    "description": "Snacks for pets with Salmon flavour (5kg).",
+    "basePrice": 8.48
+  },
+  {
+    "name": "Samsung TV Mini",
+    "description": "Samsung TV with Mini configuration.",
+    "basePrice": 955.02
+  },
+  {
+    "name": "Purina Dog Food Turkey 4kg",
+    "description": "Dog Food for pets with Turkey flavour (4kg).",
+    "basePrice": 38.11
+  },
+  {
+    "name": "Reebok Grey Shorts",
+    "description": "Grey Shorts by Reebok.",
+    "basePrice": 29.43
+  },
+  {
+    "name": "Sony Headphones 128GB",
+    "description": "Sony Headphones with 128GB configuration.",
+    "basePrice": 837.36
+  },
+  {
+    "name": "Xiaomi Laptop 64GB",
+    "description": "Xiaomi Laptop with 64GB configuration.",
+    "basePrice": 796.9
+  },
+  {
+    "name": "Xiaomi TV 256GB",
+    "description": "Xiaomi TV with 256GB configuration.",
+    "basePrice": 466.42
+  },
+  {
+    "name": "Adidas Running Shoes",
+    "description": "Running Shoes by Adidas, comfortable and durable.",
+    "basePrice": 118.73
+  },
+  {
+    "name": "Adidas Red Jeans",
+    "description": "Red Jeans by Adidas.",
+    "basePrice": 146.71
+  },
+  {
+    "name": "Converse Running Shoes",
+    "description": "Running Shoes by Converse, comfortable and durable.",
+    "basePrice": 162.49
+  },
+  {
+    "name": "Reebok White Shorts",
+    "description": "White Shorts by Reebok.",
+    "basePrice": 87.17
+  },
+  {
+    "name": "Whiskas Cat Food Salmon 4kg",
+    "description": "Cat Food for pets with Salmon flavour (4kg).",
+    "basePrice": 47.99
+  },
+  {
+    "name": "Adidas Red Jeans",
+    "description": "Red Jeans by Adidas.",
+    "basePrice": 62.82
+  },
+  {
+    "name": "Nike Blue Shorts",
+    "description": "Blue Shorts by Nike.",
+    "basePrice": 143.55
+  },
+  {
+    "name": "H&M Red T-Shirt",
+    "description": "Red T-Shirt by H&M.",
+    "basePrice": 101.85
+  },
+  {
+    "name": "Vans Running Shoes",
+    "description": "Running Shoes by Vans, comfortable and durable.",
+    "basePrice": 166.24
+  },
+  {
+    "name": "H&M White Shorts",
+    "description": "White Shorts by H&M.",
+    "basePrice": 115.4
+  },
+  {
+    "name": "Vans Boots",
+    "description": "Boots by Vans, comfortable and durable.",
+    "basePrice": 170.61
+  },
+  {
+    "name": "Converse Sneakers",
+    "description": "Sneakers by Converse, comfortable and durable.",
+    "basePrice": 224.41
+  },
+  {
+    "name": "Pedigree Snacks Beef 3kg",
+    "description": "Snacks for pets with Beef flavour (3kg).",
+    "basePrice": 35.57
+  },
+  {
+    "name": "Whiskas Snacks Turkey 4kg",
+    "description": "Snacks for pets with Turkey flavour (4kg).",
+    "basePrice": 44.43
+  },
+  {
+    "name": "Converse Sandals",
+    "description": "Sandals by Converse, comfortable and durable.",
+    "basePrice": 88.48
+  },
+  {
+    "name": "Converse Running Shoes",
+    "description": "Running Shoes by Converse, comfortable and durable.",
+    "basePrice": 214.38
+  },
+  {
+    "name": "Pedigree Snacks Chicken 3kg",
+    "description": "Snacks for pets with Chicken flavour (3kg).",
+    "basePrice": 10.14
+  },
+  {
+    "name": "Sony TV Max",
+    "description": "Sony TV with Max configuration.",
+    "basePrice": 1746
+  },
+  {
+    "name": "Nike White Jacket",
+    "description": "White Jacket by Nike.",
+    "basePrice": 138.67
+  },
+  {
+    "name": "Huawei Smartphone Ultra",
+    "description": "Huawei Smartphone with Ultra configuration.",
+    "basePrice": 1457.86
+  },
+  {
+    "name": "H&M Red Hoodie",
+    "description": "Red Hoodie by H&M.",
+    "basePrice": 115.36
+  },
+  {
+    "name": "Purina Dog Food Chicken 2kg",
+    "description": "Dog Food for pets with Chicken flavour (2kg).",
+    "basePrice": 52.6
+  },
+  {
+    "name": "Zara Blue Hoodie",
+    "description": "Blue Hoodie by Zara.",
+    "basePrice": 72.92
+  },
+  {
+    "name": "Zara Red Hoodie",
+    "description": "Red Hoodie by Zara.",
+    "basePrice": 143.23
+  },
+  {
+    "name": "Royal Canin Dog Food Chicken 4kg",
+    "description": "Dog Food for pets with Chicken flavour (4kg).",
+    "basePrice": 56.04
+  },
+  {
+    "name": "Xiaomi Tablet 4K",
+    "description": "Xiaomi Tablet with 4K configuration.",
+    "basePrice": 1629.33
+  },
+  {
+    "name": "Converse Sneakers",
+    "description": "Sneakers by Converse, comfortable and durable.",
+    "basePrice": 199.34
+  },
+  {
+    "name": "Adidas Green Hoodie",
+    "description": "Green Hoodie by Adidas.",
+    "basePrice": 110.54
+  },
+  {
+    "name": "Adidas Grey Jacket",
+    "description": "Grey Jacket by Adidas.",
+    "basePrice": 79.47
+  },
+  {
+    "name": "Nike Black Hoodie",
+    "description": "Black Hoodie by Nike.",
+    "basePrice": 84.54
+  },
+  {
+    "name": "Samsung Laptop 4K",
+    "description": "Samsung Laptop with 4K configuration.",
+    "basePrice": 1110.59
+  },
+  {
+    "name": "Sony TV Mini",
+    "description": "Sony TV with Mini configuration.",
+    "basePrice": 599.85
+  },
+  {
+    "name": "Pedigree Snacks Beef 2kg",
+    "description": "Snacks for pets with Beef flavour (2kg).",
+    "basePrice": 56.45
+  },
+  {
+    "name": "Adidas Black Hoodie",
+    "description": "Black Hoodie by Adidas.",
+    "basePrice": 109.62
+  },
+  {
+    "name": "Whiskas Cat Food Turkey 5kg",
+    "description": "Cat Food for pets with Turkey flavour (5kg).",
+    "basePrice": 45.29
+  },
+  {
+    "name": "Reebok Green Jeans",
+    "description": "Green Jeans by Reebok.",
+    "basePrice": 57.15
+  },
+  {
+    "name": "Nike Boots",
+    "description": "Boots by Nike, comfortable and durable.",
+    "basePrice": 120.98
+  },
+  {
+    "name": "H&M Red Jeans",
+    "description": "Red Jeans by H&M.",
+    "basePrice": 123.57
+  },
+  {
+    "name": "Xiaomi TV 4K",
+    "description": "Xiaomi TV with 4K configuration.",
+    "basePrice": 1445.27
+  },
+  {
+    "name": "Huawei Headphones Max",
+    "description": "Huawei Headphones with Max configuration.",
+    "basePrice": 2144.28
+  },
+  {
+    "name": "Nike White Shorts",
+    "description": "White Shorts by Nike.",
+    "basePrice": 31.64
+  },
+  {
+    "name": "Nike Boots",
+    "description": "Boots by Nike, comfortable and durable.",
+    "basePrice": 71.69
+  },
+  {
+    "name": "LG TV Ultra",
+    "description": "LG TV with Ultra configuration.",
+    "basePrice": 1749.61
+  },
+  {
+    "name": "Samsung TV 128GB",
+    "description": "Samsung TV with 128GB configuration.",
+    "basePrice": 205.16
+  },
+  {
+    "name": "New Balance Running Shoes",
+    "description": "Running Shoes by New Balance, comfortable and durable.",
+    "basePrice": 129.31
+  },
+  {
+    "name": "Pedigree Cat Food Beef 5kg",
+    "description": "Cat Food for pets with Beef flavour (5kg).",
+    "basePrice": 7.8
+  },
+  {
+    "name": "Royal Canin Cat Food Salmon 3kg",
+    "description": "Cat Food for pets with Salmon flavour (3kg).",
+    "basePrice": 15.42
+  },
+  {
+    "name": "Purina Snacks Salmon 1kg",
+    "description": "Snacks for pets with Salmon flavour (1kg).",
+    "basePrice": 6
+  },
+  {
+    "name": "Royal Canin Cat Food Salmon 2kg",
+    "description": "Cat Food for pets with Salmon flavour (2kg).",
+    "basePrice": 5.6
+  },
+  {
+    "name": "Royal Canin Snacks Turkey 4kg",
+    "description": "Snacks for pets with Turkey flavour (4kg).",
+    "basePrice": 23.39
+  },
+  {
+    "name": "Whiskas Cat Food Turkey 5kg",
+    "description": "Cat Food for pets with Turkey flavour (5kg).",
+    "basePrice": 52.83
+  },
+  {
+    "name": "Samsung Laptop 4K",
+    "description": "Samsung Laptop with 4K configuration.",
+    "basePrice": 1432.99
+  },
+  {
+    "name": "Vans Running Shoes",
+    "description": "Running Shoes by Vans, comfortable and durable.",
+    "basePrice": 170.65
+  },
+  {
+    "name": "Whiskas Dog Food Turkey 1kg",
+    "description": "Dog Food for pets with Turkey flavour (1kg).",
+    "basePrice": 30.01
+  },
+  {
+    "name": "Vans Sandals",
+    "description": "Sandals by Vans, comfortable and durable.",
+    "basePrice": 233.73
+  },
+  {
+    "name": "Sony Smartwatch 64GB",
+    "description": "Sony Smartwatch with 64GB configuration.",
+    "basePrice": 1105.86
+  },
+  {
+    "name": "Xiaomi Laptop Mini",
+    "description": "Xiaomi Laptop with Mini configuration.",
+    "basePrice": 2400.24
+  },
+  {
+    "name": "Purina Cat Food Beef 2kg",
+    "description": "Cat Food for pets with Beef flavour (2kg).",
+    "basePrice": 49.92
+  },
+  {
+    "name": "Xiaomi Laptop Mini",
+    "description": "Xiaomi Laptop with Mini configuration.",
+    "basePrice": 1638.52
+  },
+  {
+    "name": "LG Smartphone Mini",
+    "description": "LG Smartphone with Mini configuration.",
+    "basePrice": 2308.97
+  },
+  {
+    "name": "Xiaomi Smartwatch Pro",
+    "description": "Xiaomi Smartwatch with Pro configuration.",
+    "basePrice": 1995.77
+  },
+  {
+    "name": "New Balance Sneakers",
+    "description": "Sneakers by New Balance, comfortable and durable.",
+    "basePrice": 173.95
+  },
+  {
+    "name": "Reebok Grey T-Shirt",
+    "description": "Grey T-Shirt by Reebok.",
+    "basePrice": 84.93
+  },
+  {
+    "name": "Sony Headphones Mini",
+    "description": "Sony Headphones with Mini configuration.",
+    "basePrice": 569.65
+  },
+  {
+    "name": "Purina Cat Food Chicken 2kg",
+    "description": "Cat Food for pets with Chicken flavour (2kg).",
+    "basePrice": 47.17
+  },
+  {
+    "name": "Nike Green Jacket",
+    "description": "Green Jacket by Nike.",
+    "basePrice": 61.15
+  },
+  {
+    "name": "Xiaomi Smartwatch Pro",
+    "description": "Xiaomi Smartwatch with Pro configuration.",
+    "basePrice": 1986.23
+  },
+  {
+    "name": "Samsung Tablet Max",
+    "description": "Samsung Tablet with Max configuration.",
+    "basePrice": 2259.05
+  },
+  {
+    "name": "Nike Grey Jacket",
+    "description": "Grey Jacket by Nike.",
+    "basePrice": 88.17
+  },
+  {
+    "name": "Reebok Red Jeans",
+    "description": "Red Jeans by Reebok.",
+    "basePrice": 37.92
+  },
+  {
+    "name": "Nike Red Jacket",
+    "description": "Red Jacket by Nike.",
+    "basePrice": 24.55
+  },
+  {
+    "name": "Adidas Sandals",
+    "description": "Sandals by Adidas, comfortable and durable.",
+    "basePrice": 193.42
+  },
+  {
+    "name": "Royal Canin Cat Food Beef 1kg",
+    "description": "Cat Food for pets with Beef flavour (1kg).",
+    "basePrice": 45.78
+  },
+  {
+    "name": "Zara Grey Hoodie",
+    "description": "Grey Hoodie by Zara.",
+    "basePrice": 76.03
+  },
+  {
+    "name": "Vans Boots",
+    "description": "Boots by Vans, comfortable and durable.",
+    "basePrice": 33.91
+  },
+  {
+    "name": "Converse Boots",
+    "description": "Boots by Converse, comfortable and durable.",
+    "basePrice": 59.03
+  },
+  {
+    "name": "Pedigree Snacks Turkey 5kg",
+    "description": "Snacks for pets with Turkey flavour (5kg).",
+    "basePrice": 5.96
+  },
+  {
+    "name": "Reebok Black T-Shirt",
+    "description": "Black T-Shirt by Reebok.",
+    "basePrice": 50.85
+  },
+  {
+    "name": "Royal Canin Dog Food Beef 1kg",
+    "description": "Dog Food for pets with Beef flavour (1kg).",
+    "basePrice": 42.53
+  },
+  {
+    "name": "H&M Blue Shorts",
+    "description": "Blue Shorts by H&M.",
+    "basePrice": 70.95
+  },
+  {
+    "name": "Reebok White Hoodie",
+    "description": "White Hoodie by Reebok.",
+    "basePrice": 21.75
+  },
+  {
+    "name": "Adidas Running Shoes",
+    "description": "Running Shoes by Adidas, comfortable and durable.",
+    "basePrice": 86.16
+  },
+  {
+    "name": "Apple Smartwatch Pro",
+    "description": "Apple Smartwatch with Pro configuration.",
+    "basePrice": 273.64
+  },
+  {
+    "name": "Nike Black Shorts",
+    "description": "Black Shorts by Nike.",
+    "basePrice": 48.9
+  },
+  {
+    "name": "Nike Sandals",
+    "description": "Sandals by Nike, comfortable and durable.",
+    "basePrice": 131.35
+  },
+  {
+    "name": "Samsung Smartwatch 4K",
+    "description": "Samsung Smartwatch with 4K configuration.",
+    "basePrice": 1761.63
+  },
+  {
+    "name": "Converse Sneakers",
+    "description": "Sneakers by Converse, comfortable and durable.",
+    "basePrice": 121.48
+  },
+  {
+    "name": "Xiaomi Smartwatch Pro",
+    "description": "Xiaomi Smartwatch with Pro configuration.",
+    "basePrice": 1320.65
+  },
+  {
+    "name": "Converse Sandals",
+    "description": "Sandals by Converse, comfortable and durable.",
+    "basePrice": 158.51
+  },
+  {
+    "name": "Zara Black T-Shirt",
+    "description": "Black T-Shirt by Zara.",
+    "basePrice": 104.81
+  },
+  {
+    "name": "Xiaomi Tablet Pro",
+    "description": "Xiaomi Tablet with Pro configuration.",
+    "basePrice": 2084.23
+  },
+  {
+    "name": "Reebok Black T-Shirt",
+    "description": "Black T-Shirt by Reebok.",
+    "basePrice": 115.2
+  },
+  {
+    "name": "Reebok Green Jacket",
+    "description": "Green Jacket by Reebok.",
+    "basePrice": 139.19
+  },
+  {
+    "name": "Reebok Blue Jeans",
+    "description": "Blue Jeans by Reebok.",
+    "basePrice": 29.38
+  },
+  {
+    "name": "Purina Snacks Salmon 3kg",
+    "description": "Snacks for pets with Salmon flavour (3kg).",
+    "basePrice": 29.67
+  },
+  {
+    "name": "Adidas Black Shorts",
+    "description": "Black Shorts by Adidas.",
+    "basePrice": 148.05
+  },
+  {
+    "name": "Adidas Black Shorts",
+    "description": "Black Shorts by Adidas.",
+    "basePrice": 18.93
+  },
+  {
+    "name": "Samsung Headphones Ultra",
+    "description": "Samsung Headphones with Ultra configuration.",
+    "basePrice": 647.71
+  },
+  {
+    "name": "Pedigree Dog Food Chicken 2kg",
+    "description": "Dog Food for pets with Chicken flavour (2kg).",
+    "basePrice": 12.02
+  },
+  {
+    "name": "H&M Green Jeans",
+    "description": "Green Jeans by H&M.",
+    "basePrice": 70.75
+  },
+  {
+    "name": "Whiskas Cat Food Salmon 5kg",
+    "description": "Cat Food for pets with Salmon flavour (5kg).",
+    "basePrice": 46.43
+  },
+  {
+    "name": "Samsung TV 128GB",
+    "description": "Samsung TV with 128GB configuration.",
+    "basePrice": 1175.91
+  },
+  {
+    "name": "Pedigree Cat Food Salmon 2kg",
+    "description": "Cat Food for pets with Salmon flavour (2kg).",
+    "basePrice": 19.3
+  },
+  {
+    "name": "Xiaomi TV 4K",
+    "description": "Xiaomi TV with 4K configuration.",
+    "basePrice": 272.33
+  },
+  {
+    "name": "Royal Canin Cat Food Beef 5kg",
+    "description": "Cat Food for pets with Beef flavour (5kg).",
+    "basePrice": 6
+  },
+  {
+    "name": "Huawei Headphones Max",
+    "description": "Huawei Headphones with Max configuration.",
+    "basePrice": 362.65
+  },
+  {
+    "name": "Purina Dog Food Turkey 5kg",
+    "description": "Dog Food for pets with Turkey flavour (5kg).",
+    "basePrice": 41.17
+  },
+  {
+    "name": "Apple Laptop Max",
+    "description": "Apple Laptop with Max configuration.",
+    "basePrice": 279.12
+  },
+  {
+    "name": "Huawei Laptop 64GB",
+    "description": "Huawei Laptop with 64GB configuration.",
+    "basePrice": 1842.73
+  },
+  {
+    "name": "Reebok Blue Jeans",
+    "description": "Blue Jeans by Reebok.",
+    "basePrice": 145.96
+  },
+  {
+    "name": "Pedigree Snacks Turkey 1kg",
+    "description": "Snacks for pets with Turkey flavour (1kg).",
+    "basePrice": 11.47
+  },
+  {
+    "name": "Adidas Boots",
+    "description": "Boots by Adidas, comfortable and durable.",
+    "basePrice": 184.94
+  },
+  {
+    "name": "Royal Canin Dog Food Beef 4kg",
+    "description": "Dog Food for pets with Beef flavour (4kg).",
+    "basePrice": 22.22
+  },
+  {
+    "name": "Adidas Running Shoes",
+    "description": "Running Shoes by Adidas, comfortable and durable.",
+    "basePrice": 143.02
+  },
+  {
+    "name": "Zara Green Jacket",
+    "description": "Green Jacket by Zara.",
+    "basePrice": 102.61
+  },
+  {
+    "name": "Whiskas Cat Food Chicken 3kg",
+    "description": "Cat Food for pets with Chicken flavour (3kg).",
+    "basePrice": 5.81
+  },
+  {
+    "name": "Adidas Sandals",
+    "description": "Sandals by Adidas, comfortable and durable.",
+    "basePrice": 161.94
+  },
+  {
+    "name": "Vans Sneakers",
+    "description": "Sneakers by Vans, comfortable and durable.",
+    "basePrice": 87.24
+  },
+  {
+    "name": "Adidas White Jacket",
+    "description": "White Jacket by Adidas.",
+    "basePrice": 48.04
+  },
+  {
+    "name": "New Balance Running Shoes",
+    "description": "Running Shoes by New Balance, comfortable and durable.",
+    "basePrice": 66.88
+  },
+  {
+    "name": "Zara Black T-Shirt",
+    "description": "Black T-Shirt by Zara.",
+    "basePrice": 141.44
+  },
+  {
+    "name": "Huawei TV Max",
+    "description": "Huawei TV with Max configuration.",
+    "basePrice": 708.16
+  },
+  {
+    "name": "Reebok Blue Shorts",
+    "description": "Blue Shorts by Reebok.",
+    "basePrice": 49.35
+  },
+  {
+    "name": "Pedigree Dog Food Turkey 4kg",
+    "description": "Dog Food for pets with Turkey flavour (4kg).",
+    "basePrice": 31.52
+  },
+  {
+    "name": "Sony Laptop 256GB",
+    "description": "Sony Laptop with 256GB configuration.",
+    "basePrice": 2435.96
+  },
+  {
+    "name": "Reebok Black Shorts",
+    "description": "Black Shorts by Reebok.",
+    "basePrice": 98.71
+  },
+  {
+    "name": "Converse Sandals",
+    "description": "Sandals by Converse, comfortable and durable.",
+    "basePrice": 125.41
+  },
+  {
+    "name": "Zara White Shorts",
+    "description": "White Shorts by Zara.",
+    "basePrice": 56.28
+  },
+  {
+    "name": "Adidas Sandals",
+    "description": "Sandals by Adidas, comfortable and durable.",
+    "basePrice": 88.71
+  },
+  {
+    "name": "Royal Canin Cat Food Turkey 2kg",
+    "description": "Cat Food for pets with Turkey flavour (2kg).",
+    "basePrice": 55.41
+  },
+  {
+    "name": "Huawei TV 128GB",
+    "description": "Huawei TV with 128GB configuration.",
+    "basePrice": 301.8
+  },
+  {
+    "name": "Nike Green Shorts",
+    "description": "Green Shorts by Nike.",
+    "basePrice": 85.91
+  },
+  {
+    "name": "New Balance Running Shoes",
+    "description": "Running Shoes by New Balance, comfortable and durable.",
+    "basePrice": 192.7
+  },
+  {
+    "name": "Whiskas Snacks Turkey 4kg",
+    "description": "Snacks for pets with Turkey flavour (4kg).",
+    "basePrice": 58.45
+  },
+  {
+    "name": "Adidas Green Jeans",
+    "description": "Green Jeans by Adidas.",
+    "basePrice": 29.04
+  },
+  {
+    "name": "Whiskas Cat Food Salmon 4kg",
+    "description": "Cat Food for pets with Salmon flavour (4kg).",
+    "basePrice": 22.39
+  },
+  {
+    "name": "Reebok Blue Jacket",
+    "description": "Blue Jacket by Reebok.",
+    "basePrice": 42.08
+  },
+  {
+    "name": "Reebok Grey Jacket",
+    "description": "Grey Jacket by Reebok.",
+    "basePrice": 67.5
+  },
+  {
+    "name": "Huawei Tablet Mini",
+    "description": "Huawei Tablet with Mini configuration.",
+    "basePrice": 1259.01
+  },
+  {
+    "name": "Whiskas Snacks Salmon 5kg",
+    "description": "Snacks for pets with Salmon flavour (5kg).",
+    "basePrice": 41.14
+  },
+  {
+    "name": "Adidas Boots",
+    "description": "Boots by Adidas, comfortable and durable.",
+    "basePrice": 113.18
+  },
+  {
+    "name": "Nike Boots",
+    "description": "Boots by Nike, comfortable and durable.",
+    "basePrice": 123.44
+  },
+  {
+    "name": "Royal Canin Dog Food Chicken 1kg",
+    "description": "Dog Food for pets with Chicken flavour (1kg).",
+    "basePrice": 47.55
+  },
+  {
+    "name": "Converse Running Shoes",
+    "description": "Running Shoes by Converse, comfortable and durable.",
+    "basePrice": 77.43
+  },
+  {
+    "name": "Reebok White Shorts",
+    "description": "White Shorts by Reebok.",
+    "basePrice": 129.52
+  },
+  {
+    "name": "Xiaomi Headphones Ultra",
+    "description": "Xiaomi Headphones with Ultra configuration.",
+    "basePrice": 1445.81
+  },
+  {
+    "name": "Apple Tablet 256GB",
+    "description": "Apple Tablet with 256GB configuration.",
+    "basePrice": 742.76
+  },
+  {
+    "name": "New Balance Boots",
+    "description": "Boots by New Balance, comfortable and durable.",
+    "basePrice": 81.34
+  },
+  {
+    "name": "Samsung Smartwatch Max",
+    "description": "Samsung Smartwatch with Max configuration.",
+    "basePrice": 1153.34
+  },
+  {
+    "name": "Royal Canin Dog Food Beef 4kg",
+    "description": "Dog Food for pets with Beef flavour (4kg).",
+    "basePrice": 50.32
+  },
+  {
+    "name": "H&M Green Hoodie",
+    "description": "Green Hoodie by H&M.",
+    "basePrice": 147.13
+  },
+  {
+    "name": "Adidas White Shorts",
+    "description": "White Shorts by Adidas.",
+    "basePrice": 116.02
+  },
+  {
+    "name": "Royal Canin Dog Food Salmon 1kg",
+    "description": "Dog Food for pets with Salmon flavour (1kg).",
+    "basePrice": 25.88
+  },
+  {
+    "name": "Purina Snacks Chicken 2kg",
+    "description": "Snacks for pets with Chicken flavour (2kg).",
+    "basePrice": 8.63
+  },
+  {
+    "name": "Nike Grey Hoodie",
+    "description": "Grey Hoodie by Nike.",
+    "basePrice": 100.62
+  },
+  {
+    "name": "Adidas Blue Jeans",
+    "description": "Blue Jeans by Adidas.",
+    "basePrice": 104.97
+  },
+  {
+    "name": "LG Headphones 128GB",
+    "description": "LG Headphones with 128GB configuration.",
+    "basePrice": 1960.66
+  },
+  {
+    "name": "Puma Blue Jacket",
+    "description": "Blue Jacket by Puma.",
+    "basePrice": 98.8
+  },
+  {
+    "name": "Whiskas Cat Food Chicken 5kg",
+    "description": "Cat Food for pets with Chicken flavour (5kg).",
+    "basePrice": 56.2
+  },
+  {
+    "name": "New Balance Boots",
+    "description": "Boots by New Balance, comfortable and durable.",
+    "basePrice": 129.53
+  },
+  {
+    "name": "Adidas Blue T-Shirt",
+    "description": "Blue T-Shirt by Adidas.",
+    "basePrice": 52.68
+  },
+  {
+    "name": "Xiaomi Headphones 4K",
+    "description": "Xiaomi Headphones with 4K configuration.",
+    "basePrice": 1384.96
+  },
+  {
+    "name": "Purina Dog Food Turkey 4kg",
+    "description": "Dog Food for pets with Turkey flavour (4kg).",
+    "basePrice": 53.94
+  },
+  {
+    "name": "Pedigree Dog Food Turkey 4kg",
+    "description": "Dog Food for pets with Turkey flavour (4kg).",
+    "basePrice": 32.76
+  },
+  {
+    "name": "H&M Grey Hoodie",
+    "description": "Grey Hoodie by H&M.",
+    "basePrice": 129.89
+  },
+  {
+    "name": "Xiaomi Smartwatch Mini",
+    "description": "Xiaomi Smartwatch with Mini configuration.",
+    "basePrice": 1554.67
+  },
+  {
+    "name": "Purina Dog Food Chicken 2kg",
+    "description": "Dog Food for pets with Chicken flavour (2kg).",
+    "basePrice": 45.51
+  },
+  {
+    "name": "LG Tablet 128GB",
+    "description": "LG Tablet with 128GB configuration.",
+    "basePrice": 205.76
+  },
+  {
+    "name": "Zara White Shorts",
+    "description": "White Shorts by Zara.",
+    "basePrice": 133.28
+  },
+  {
+    "name": "LG Tablet 256GB",
+    "description": "LG Tablet with 256GB configuration.",
+    "basePrice": 997.33
+  },
+  {
+    "name": "Royal Canin Snacks Chicken 4kg",
+    "description": "Snacks for pets with Chicken flavour (4kg).",
+    "basePrice": 23.57
+  },
+  {
+    "name": "Pedigree Snacks Salmon 1kg",
+    "description": "Snacks for pets with Salmon flavour (1kg).",
+    "basePrice": 57.84
+  },
+  {
+    "name": "Royal Canin Cat Food Beef 5kg",
+    "description": "Cat Food for pets with Beef flavour (5kg).",
+    "basePrice": 35.8
+  },
+  {
+    "name": "Purina Snacks Beef 4kg",
+    "description": "Snacks for pets with Beef flavour (4kg).",
+    "basePrice": 19.17
+  },
+  {
+    "name": "Whiskas Dog Food Salmon 2kg",
+    "description": "Dog Food for pets with Salmon flavour (2kg).",
+    "basePrice": 41.49
+  },
+  {
+    "name": "Converse Sneakers",
+    "description": "Sneakers by Converse, comfortable and durable.",
+    "basePrice": 241.69
+  },
+  {
+    "name": "Adidas Running Shoes",
+    "description": "Running Shoes by Adidas, comfortable and durable.",
+    "basePrice": 74.33
+  },
+  {
+    "name": "Huawei Headphones 4K",
+    "description": "Huawei Headphones with 4K configuration.",
+    "basePrice": 915.37
+  },
+  {
+    "name": "Samsung Headphones 64GB",
+    "description": "Samsung Headphones with 64GB configuration.",
+    "basePrice": 1325.38
+  },
+  {
+    "name": "Whiskas Snacks Beef 4kg",
+    "description": "Snacks for pets with Beef flavour (4kg).",
+    "basePrice": 31.56
+  },
+  {
+    "name": "Pedigree Dog Food Salmon 5kg",
+    "description": "Dog Food for pets with Salmon flavour (5kg).",
+    "basePrice": 45.15
+  },
+  {
+    "name": "Huawei Laptop 128GB",
+    "description": "Huawei Laptop with 128GB configuration.",
+    "basePrice": 1396.49
+  },
+  {
+    "name": "Sony Tablet 4K",
+    "description": "Sony Tablet with 4K configuration.",
+    "basePrice": 2376.57
+  },
+  {
+    "name": "Xiaomi Laptop Mini",
+    "description": "Xiaomi Laptop with Mini configuration.",
+    "basePrice": 588.56
+  },
+  {
+    "name": "Adidas Sneakers",
+    "description": "Sneakers by Adidas, comfortable and durable.",
+    "basePrice": 249.11
+  },
+  {
+    "name": "Converse Boots",
+    "description": "Boots by Converse, comfortable and durable.",
+    "basePrice": 138.06
+  },
+  {
+    "name": "Adidas Sandals",
+    "description": "Sandals by Adidas, comfortable and durable.",
+    "basePrice": 169.45
+  },
+  {
+    "name": "Converse Boots",
+    "description": "Boots by Converse, comfortable and durable.",
+    "basePrice": 223.11
+  },
+  {
+    "name": "Nike White Jacket",
+    "description": "White Jacket by Nike.",
+    "basePrice": 31.93
+  },
+  {
+    "name": "Adidas Blue Hoodie",
+    "description": "Blue Hoodie by Adidas.",
+    "basePrice": 105.44
+  },
+  {
+    "name": "Puma Blue Jeans",
+    "description": "Blue Jeans by Puma.",
+    "basePrice": 123.65
+  },
+  {
+    "name": "Vans Boots",
+    "description": "Boots by Vans, comfortable and durable.",
+    "basePrice": 249.84
+  },
+  {
+    "name": "Pedigree Snacks Beef 3kg",
+    "description": "Snacks for pets with Beef flavour (3kg).",
+    "basePrice": 44.24
+  },
+  {
+    "name": "Royal Canin Dog Food Turkey 2kg",
+    "description": "Dog Food for pets with Turkey flavour (2kg).",
+    "basePrice": 25
+  },
+  {
+    "name": "Samsung Smartphone 128GB",
+    "description": "Samsung Smartphone with 128GB configuration.",
+    "basePrice": 412.15
+  },
+  {
+    "name": "Reebok White Shorts",
+    "description": "White Shorts by Reebok.",
+    "basePrice": 119.16
+  },
+  {
+    "name": "LG Headphones 64GB",
+    "description": "LG Headphones with 64GB configuration.",
+    "basePrice": 1899.51
+  },
+  {
+    "name": "Pedigree Snacks Salmon 4kg",
+    "description": "Snacks for pets with Salmon flavour (4kg).",
+    "basePrice": 7.58
+  },
+  {
+    "name": "Apple Smartphone 128GB",
+    "description": "Apple Smartphone with 128GB configuration.",
+    "basePrice": 764.05
+  },
+  {
+    "name": "Samsung Laptop 128GB",
+    "description": "Samsung Laptop with 128GB configuration.",
+    "basePrice": 753.2
+  },
+  {
+    "name": "Pedigree Cat Food Salmon 2kg",
+    "description": "Cat Food for pets with Salmon flavour (2kg).",
+    "basePrice": 24.24
+  },
+  {
+    "name": "New Balance Sandals",
+    "description": "Sandals by New Balance, comfortable and durable.",
+    "basePrice": 86.86
+  },
+  {
+    "name": "Vans Sandals",
+    "description": "Sandals by Vans, comfortable and durable.",
+    "basePrice": 217.86
+  },
+  {
+    "name": "Converse Running Shoes",
+    "description": "Running Shoes by Converse, comfortable and durable.",
+    "basePrice": 238.22
+  },
+  {
+    "name": "Puma Red Jacket",
+    "description": "Red Jacket by Puma.",
+    "basePrice": 130.06
+  },
+  {
+    "name": "Vans Boots",
+    "description": "Boots by Vans, comfortable and durable.",
+    "basePrice": 163.92
+  },
+  {
+    "name": "Huawei Smartphone 64GB",
+    "description": "Huawei Smartphone with 64GB configuration.",
+    "basePrice": 273.33
+  },
+  {
+    "name": "Samsung Headphones Pro",
+    "description": "Samsung Headphones with Pro configuration.",
+    "basePrice": 2042.85
+  },
+  {
+    "name": "Adidas Sneakers",
+    "description": "Sneakers by Adidas, comfortable and durable.",
+    "basePrice": 148.84
+  },
+  {
+    "name": "Sony Tablet 4K",
+    "description": "Sony Tablet with 4K configuration.",
+    "basePrice": 459.87
+  },
+  {
+    "name": "Purina Cat Food Salmon 5kg",
+    "description": "Cat Food for pets with Salmon flavour (5kg).",
+    "basePrice": 22.87
+  },
+  {
+    "name": "Royal Canin Snacks Turkey 4kg",
+    "description": "Snacks for pets with Turkey flavour (4kg).",
+    "basePrice": 47.96
+  },
+  {
+    "name": "Huawei Headphones Mini",
+    "description": "Huawei Headphones with Mini configuration.",
+    "basePrice": 1466.85
+  },
+  {
+    "name": "Puma Green Jacket",
+    "description": "Green Jacket by Puma.",
+    "basePrice": 51.74
+  },
+  {
+    "name": "Adidas Boots",
+    "description": "Boots by Adidas, comfortable and durable.",
+    "basePrice": 244.44
+  },
+  {
+    "name": "Vans Sandals",
+    "description": "Sandals by Vans, comfortable and durable.",
+    "basePrice": 109.7
+  },
+  {
+    "name": "Pedigree Cat Food Turkey 5kg",
+    "description": "Cat Food for pets with Turkey flavour (5kg).",
+    "basePrice": 24.17
+  },
+  {
+    "name": "Purina Dog Food Beef 3kg",
+    "description": "Dog Food for pets with Beef flavour (3kg).",
+    "basePrice": 44.37
+  },
+  {
+    "name": "Zara Grey Jacket",
+    "description": "Grey Jacket by Zara.",
+    "basePrice": 21.6
+  },
+  {
+    "name": "Nike Running Shoes",
+    "description": "Running Shoes by Nike, comfortable and durable.",
+    "basePrice": 132.94
+  },
+  {
+    "name": "Adidas White Shorts",
+    "description": "White Shorts by Adidas.",
+    "basePrice": 15.15
+  },
+  {
+    "name": "Vans Sandals",
+    "description": "Sandals by Vans, comfortable and durable.",
+    "basePrice": 243.24
+  },
+  {
+    "name": "Vans Boots",
+    "description": "Boots by Vans, comfortable and durable.",
+    "basePrice": 218.37
+  },
+  {
+    "name": "Adidas Running Shoes",
+    "description": "Running Shoes by Adidas, comfortable and durable.",
+    "basePrice": 90.89
+  },
+  {
+    "name": "LG Tablet 128GB",
+    "description": "LG Tablet with 128GB configuration.",
+    "basePrice": 382.29
+  },
+  {
+    "name": "Nike Sandals",
+    "description": "Sandals by Nike, comfortable and durable.",
+    "basePrice": 45.5
+  },
+  {
+    "name": "Zara White Hoodie",
+    "description": "White Hoodie by Zara.",
+    "basePrice": 97.38
+  },
+  {
+    "name": "Puma Grey Shorts",
+    "description": "Grey Shorts by Puma.",
+    "basePrice": 79.63
+  },
+  {
+    "name": "Vans Boots",
+    "description": "Boots by Vans, comfortable and durable.",
+    "basePrice": 74.38
+  },
+  {
+    "name": "Huawei Smartphone 256GB",
+    "description": "Huawei Smartphone with 256GB configuration.",
+    "basePrice": 1544.12
+  },
+  {
+    "name": "LG TV 256GB",
+    "description": "LG TV with 256GB configuration.",
+    "basePrice": 1145.35
+  },
+  {
+    "name": "Purina Cat Food Beef 4kg",
+    "description": "Cat Food for pets with Beef flavour (4kg).",
+    "basePrice": 26.63
+  },
+  {
+    "name": "Reebok Black Shorts",
+    "description": "Black Shorts by Reebok.",
+    "basePrice": 98.9
+  },
+  {
+    "name": "Reebok Blue Jeans",
+    "description": "Blue Jeans by Reebok.",
+    "basePrice": 132.2
+  },
+  {
+    "name": "Huawei Smartphone Mini",
+    "description": "Huawei Smartphone with Mini configuration.",
+    "basePrice": 688.48
+  },
+  {
+    "name": "Converse Sandals",
+    "description": "Sandals by Converse, comfortable and durable.",
+    "basePrice": 170.77
+  },
+  {
+    "name": "Vans Sneakers",
+    "description": "Sneakers by Vans, comfortable and durable.",
+    "basePrice": 45.72
+  },
+  {
+    "name": "Puma Red T-Shirt",
+    "description": "Red T-Shirt by Puma.",
+    "basePrice": 80.69
+  },
+  {
+    "name": "Adidas Black Hoodie",
+    "description": "Black Hoodie by Adidas.",
+    "basePrice": 78.95
+  },
+  {
+    "name": "Adidas Red Shorts",
+    "description": "Red Shorts by Adidas.",
+    "basePrice": 34.67
+  },
+  {
+    "name": "Zara White Jacket",
+    "description": "White Jacket by Zara.",
+    "basePrice": 37.28
+  },
+  {
+    "name": "Apple Tablet 64GB",
+    "description": "Apple Tablet with 64GB configuration.",
+    "basePrice": 1887.32
+  },
+  {
+    "name": "Nike Green Jacket",
+    "description": "Green Jacket by Nike.",
+    "basePrice": 81.3
+  },
+  {
+    "name": "Royal Canin Cat Food Turkey 2kg",
+    "description": "Cat Food for pets with Turkey flavour (2kg).",
+    "basePrice": 51.08
+  },
+  {
+    "name": "Xiaomi Laptop Mini",
+    "description": "Xiaomi Laptop with Mini configuration.",
+    "basePrice": 575.64
+  },
+  {
+    "name": "Nike Black Jeans",
+    "description": "Black Jeans by Nike.",
+    "basePrice": 133.18
+  },
+  {
+    "name": "LG TV Mini",
+    "description": "LG TV with Mini configuration.",
+    "basePrice": 2464.94
+  },
+  {
+    "name": "Converse Sandals",
+    "description": "Sandals by Converse, comfortable and durable.",
+    "basePrice": 249.05
+  },
+  {
+    "name": "Xiaomi Laptop 64GB",
+    "description": "Xiaomi Laptop with 64GB configuration.",
+    "basePrice": 1676.29
+  },
+  {
+    "name": "Zara Grey Jacket",
+    "description": "Grey Jacket by Zara.",
+    "basePrice": 120.07
+  },
+  {
+    "name": "Samsung Laptop Max",
+    "description": "Samsung Laptop with Max configuration.",
+    "basePrice": 677.16
+  },
+  {
+    "name": "New Balance Running Shoes",
+    "description": "Running Shoes by New Balance, comfortable and durable.",
+    "basePrice": 238.5
+  },
+  {
+    "name": "Nike Sandals",
+    "description": "Sandals by Nike, comfortable and durable.",
+    "basePrice": 196.71
+  },
+  {
+    "name": "Apple Laptop Ultra",
+    "description": "Apple Laptop with Ultra configuration.",
+    "basePrice": 2064.98
+  },
+  {
+    "name": "Sony Tablet 4K",
+    "description": "Sony Tablet with 4K configuration.",
+    "basePrice": 840.05
+  },
+  {
+    "name": "H&M White Shorts",
+    "description": "White Shorts by H&M.",
+    "basePrice": 40.96
+  },
+  {
+    "name": "Huawei Headphones 128GB",
+    "description": "Huawei Headphones with 128GB configuration.",
+    "basePrice": 541.25
+  },
+  {
+    "name": "Nike Boots",
+    "description": "Boots by Nike, comfortable and durable.",
+    "basePrice": 168.75
+  },
+  {
+    "name": "Vans Sneakers",
+    "description": "Sneakers by Vans, comfortable and durable.",
+    "basePrice": 36.31
+  },
+  {
+    "name": "Pedigree Cat Food Turkey 1kg",
+    "description": "Cat Food for pets with Turkey flavour (1kg).",
+    "basePrice": 50.37
+  },
+  {
+    "name": "Whiskas Snacks Salmon 1kg",
+    "description": "Snacks for pets with Salmon flavour (1kg).",
+    "basePrice": 35.61
+  },
+  {
+    "name": "New Balance Boots",
+    "description": "Boots by New Balance, comfortable and durable.",
+    "basePrice": 92.97
+  },
+  {
+    "name": "Nike Sandals",
+    "description": "Sandals by Nike, comfortable and durable.",
+    "basePrice": 73.28
+  },
+  {
+    "name": "Zara Blue Shorts",
+    "description": "Blue Shorts by Zara.",
+    "basePrice": 73.41
+  },
+  {
+    "name": "Purina Dog Food Beef 4kg",
+    "description": "Dog Food for pets with Beef flavour (4kg).",
+    "basePrice": 26.67
+  },
+  {
+    "name": "Nike Sandals",
+    "description": "Sandals by Nike, comfortable and durable.",
+    "basePrice": 61.45
+  },
+  {
+    "name": "Whiskas Cat Food Beef 3kg",
+    "description": "Cat Food for pets with Beef flavour (3kg).",
+    "basePrice": 6.37
+  },
+  {
+    "name": "Royal Canin Dog Food Beef 4kg",
+    "description": "Dog Food for pets with Beef flavour (4kg).",
+    "basePrice": 15.31
+  },
+  {
+    "name": "Samsung Headphones 256GB",
+    "description": "Samsung Headphones with 256GB configuration.",
+    "basePrice": 1768.01
+  },
+  {
+    "name": "Purina Cat Food Chicken 5kg",
+    "description": "Cat Food for pets with Chicken flavour (5kg).",
+    "basePrice": 56.52
+  },
+  {
+    "name": "Adidas White Jeans",
+    "description": "White Jeans by Adidas.",
+    "basePrice": 76.98
+  },
+  {
+    "name": "Huawei Smartphone 128GB",
+    "description": "Huawei Smartphone with 128GB configuration.",
+    "basePrice": 1074.65
+  },
+  {
+    "name": "Royal Canin Cat Food Chicken 5kg",
+    "description": "Cat Food for pets with Chicken flavour (5kg).",
+    "basePrice": 51.3
+  },
+  {
+    "name": "Xiaomi Headphones 64GB",
+    "description": "Xiaomi Headphones with 64GB configuration.",
+    "basePrice": 2175.51
+  },
+  {
+    "name": "Converse Sneakers",
+    "description": "Sneakers by Converse, comfortable and durable.",
+    "basePrice": 110.37
+  },
+  {
+    "name": "Nike Green Jacket",
+    "description": "Green Jacket by Nike.",
+    "basePrice": 21.14
+  },
+  {
+    "name": "Samsung Headphones Mini",
+    "description": "Samsung Headphones with Mini configuration.",
+    "basePrice": 2047.27
+  },
+  {
+    "name": "Reebok Green Jacket",
+    "description": "Green Jacket by Reebok.",
+    "basePrice": 26.15
+  },
+  {
+    "name": "Pedigree Snacks Chicken 3kg",
+    "description": "Snacks for pets with Chicken flavour (3kg).",
+    "basePrice": 14.48
+  },
+  {
+    "name": "Zara Green Shorts",
+    "description": "Green Shorts by Zara.",
+    "basePrice": 33.17
+  },
+  {
+    "name": "Huawei Laptop 64GB",
+    "description": "Huawei Laptop with 64GB configuration.",
+    "basePrice": 1706.07
+  },
+  {
+    "name": "LG Headphones Mini",
+    "description": "LG Headphones with Mini configuration.",
+    "basePrice": 1280.78
+  },
+  {
+    "name": "Huawei Smartphone Pro",
+    "description": "Huawei Smartphone with Pro configuration.",
+    "basePrice": 1746.1
+  },
+  {
+    "name": "Huawei Tablet Ultra",
+    "description": "Huawei Tablet with Ultra configuration.",
+    "basePrice": 355.11
+  },
+  {
+    "name": "Xiaomi Smartphone Max",
+    "description": "Xiaomi Smartphone with Max configuration.",
+    "basePrice": 1368.33
+  },
+  {
+    "name": "Adidas Running Shoes",
+    "description": "Running Shoes by Adidas, comfortable and durable.",
+    "basePrice": 86.47
+  },
+  {
+    "name": "Apple Tablet 256GB",
+    "description": "Apple Tablet with 256GB configuration.",
+    "basePrice": 2417.18
+  },
+  {
+    "name": "Zara Green T-Shirt",
+    "description": "Green T-Shirt by Zara.",
+    "basePrice": 19.36
+  },
+  {
+    "name": "Puma Grey Shorts",
+    "description": "Grey Shorts by Puma.",
+    "basePrice": 129.16
+  },
+  {
+    "name": "Apple Tablet 128GB",
+    "description": "Apple Tablet with 128GB configuration.",
+    "basePrice": 2255.71
+  },
+  {
+    "name": "Purina Dog Food Salmon 1kg",
+    "description": "Dog Food for pets with Salmon flavour (1kg).",
+    "basePrice": 41.72
+  },
+  {
+    "name": "Whiskas Dog Food Beef 2kg",
+    "description": "Dog Food for pets with Beef flavour (2kg).",
+    "basePrice": 14.22
+  },
+  {
+    "name": "Huawei Smartwatch Max",
+    "description": "Huawei Smartwatch with Max configuration.",
+    "basePrice": 1089.8
+  },
+  {
+    "name": "Reebok White Jeans",
+    "description": "White Jeans by Reebok.",
+    "basePrice": 79.05
+  },
+  {
+    "name": "Converse Sandals",
+    "description": "Sandals by Converse, comfortable and durable.",
+    "basePrice": 156.66
+  },
+  {
+    "name": "Apple Smartphone 128GB",
+    "description": "Apple Smartphone with 128GB configuration.",
+    "basePrice": 2431.45
+  },
+  {
+    "name": "Whiskas Dog Food Beef 5kg",
+    "description": "Dog Food for pets with Beef flavour (5kg).",
+    "basePrice": 10.28
+  },
+  {
+    "name": "H&M Black Shorts",
+    "description": "Black Shorts by H&M.",
+    "basePrice": 48.19
+  },
+  {
+    "name": "Converse Sneakers",
+    "description": "Sneakers by Converse, comfortable and durable.",
+    "basePrice": 155.28
+  },
+  {
+    "name": "Apple Smartwatch Max",
+    "description": "Apple Smartwatch with Max configuration.",
+    "basePrice": 520.56
+  },
+  {
+    "name": "LG Headphones 256GB",
+    "description": "LG Headphones with 256GB configuration.",
+    "basePrice": 846.77
+  },
+  {
+    "name": "Reebok Blue Jeans",
+    "description": "Blue Jeans by Reebok.",
+    "basePrice": 18.06
+  },
+  {
+    "name": "Royal Canin Snacks Salmon 1kg",
+    "description": "Snacks for pets with Salmon flavour (1kg).",
+    "basePrice": 19.29
+  },
+  {
+    "name": "Reebok Blue Jeans",
+    "description": "Blue Jeans by Reebok.",
+    "basePrice": 125.92
+  },
+  {
+    "name": "Xiaomi Tablet 64GB",
+    "description": "Xiaomi Tablet with 64GB configuration.",
+    "basePrice": 487.92
+  },
+  {
+    "name": "Whiskas Cat Food Beef 3kg",
+    "description": "Cat Food for pets with Beef flavour (3kg).",
+    "basePrice": 43.44
+  },
+  {
+    "name": "H&M Blue Jeans",
+    "description": "Blue Jeans by H&M.",
+    "basePrice": 33.48
+  },
+  {
+    "name": "Samsung TV 128GB",
+    "description": "Samsung TV with 128GB configuration.",
+    "basePrice": 1545.36
+  },
+  {
+    "name": "Nike Red T-Shirt",
+    "description": "Red T-Shirt by Nike.",
+    "basePrice": 50.17
+  },
+  {
+    "name": "Samsung Tablet 128GB",
+    "description": "Samsung Tablet with 128GB configuration.",
+    "basePrice": 222.38
+  },
+  {
+    "name": "Vans Boots",
+    "description": "Boots by Vans, comfortable and durable.",
+    "basePrice": 85.98
+  },
+  {
+    "name": "Whiskas Cat Food Salmon 4kg",
+    "description": "Cat Food for pets with Salmon flavour (4kg).",
+    "basePrice": 12.27
+  },
+  {
+    "name": "Puma Blue Shorts",
+    "description": "Blue Shorts by Puma.",
+    "basePrice": 127.04
+  },
+  {
+    "name": "Royal Canin Snacks Turkey 4kg",
+    "description": "Snacks for pets with Turkey flavour (4kg).",
+    "basePrice": 27.48
+  },
+  {
+    "name": "Pedigree Dog Food Chicken 5kg",
+    "description": "Dog Food for pets with Chicken flavour (5kg).",
+    "basePrice": 16.28
+  },
+  {
+    "name": "Zara Green Jeans",
+    "description": "Green Jeans by Zara.",
+    "basePrice": 19.91
+  },
+  {
+    "name": "LG Smartwatch 256GB",
+    "description": "LG Smartwatch with 256GB configuration.",
+    "basePrice": 848.78
+  },
+  {
+    "name": "Nike Black T-Shirt",
+    "description": "Black T-Shirt by Nike.",
+    "basePrice": 32.41
+  },
+  {
+    "name": "Nike Sandals",
+    "description": "Sandals by Nike, comfortable and durable.",
+    "basePrice": 236.75
+  },
+  {
+    "name": "Xiaomi Tablet 128GB",
+    "description": "Xiaomi Tablet with 128GB configuration.",
+    "basePrice": 1513.3
+  },
+  {
+    "name": "Pedigree Snacks Beef 2kg",
+    "description": "Snacks for pets with Beef flavour (2kg).",
+    "basePrice": 56.52
+  },
+  {
+    "name": "Puma Blue Jeans",
+    "description": "Blue Jeans by Puma.",
+    "basePrice": 95.87
+  },
+  {
+    "name": "Whiskas Snacks Salmon 2kg",
+    "description": "Snacks for pets with Salmon flavour (2kg).",
+    "basePrice": 6.57
+  },
+  {
+    "name": "Adidas Sneakers",
+    "description": "Sneakers by Adidas, comfortable and durable.",
+    "basePrice": 181.92
+  },
+  {
+    "name": "Royal Canin Snacks Beef 4kg",
+    "description": "Snacks for pets with Beef flavour (4kg).",
+    "basePrice": 6.98
+  },
+  {
+    "name": "Samsung Smartphone 128GB",
+    "description": "Samsung Smartphone with 128GB configuration.",
+    "basePrice": 2131.42
+  },
+  {
+    "name": "Nike Boots",
+    "description": "Boots by Nike, comfortable and durable.",
+    "basePrice": 219.57
+  },
+  {
+    "name": "Reebok Grey Shorts",
+    "description": "Grey Shorts by Reebok.",
+    "basePrice": 119.51
+  },
+  {
+    "name": "Adidas Running Shoes",
+    "description": "Running Shoes by Adidas, comfortable and durable.",
+    "basePrice": 203.78
+  },
+  {
+    "name": "LG TV 64GB",
+    "description": "LG TV with 64GB configuration.",
+    "basePrice": 1758.95
+  },
+  {
+    "name": "Purina Dog Food Turkey 3kg",
+    "description": "Dog Food for pets with Turkey flavour (3kg).",
+    "basePrice": 55.03
+  },
+  {
+    "name": "LG Smartwatch 64GB",
+    "description": "LG Smartwatch with 64GB configuration.",
+    "basePrice": 706.26
+  },
+  {
+    "name": "Reebok White Hoodie",
+    "description": "White Hoodie by Reebok.",
+    "basePrice": 29.59
+  },
+  {
+    "name": "Adidas Blue Jeans",
+    "description": "Blue Jeans by Adidas.",
+    "basePrice": 23.77
+  },
+  {
+    "name": "LG Laptop Ultra",
+    "description": "LG Laptop with Ultra configuration.",
+    "basePrice": 1969.61
+  },
+  {
+    "name": "Pedigree Dog Food Salmon 1kg",
+    "description": "Dog Food for pets with Salmon flavour (1kg).",
+    "basePrice": 12.07
+  },
+  {
+    "name": "Pedigree Cat Food Turkey 1kg",
+    "description": "Cat Food for pets with Turkey flavour (1kg).",
+    "basePrice": 52.67
+  },
+  {
+    "name": "Purina Cat Food Turkey 3kg",
+    "description": "Cat Food for pets with Turkey flavour (3kg).",
+    "basePrice": 49.57
+  },
+  {
+    "name": "Vans Running Shoes",
+    "description": "Running Shoes by Vans, comfortable and durable.",
+    "basePrice": 50.69
+  },
+  {
+    "name": "Converse Running Shoes",
+    "description": "Running Shoes by Converse, comfortable and durable.",
+    "basePrice": 198.06
+  },
+  {
+    "name": "Huawei Tablet 4K",
+    "description": "Huawei Tablet with 4K configuration.",
+    "basePrice": 2415.95
+  },
+  {
+    "name": "Samsung Laptop 256GB",
+    "description": "Samsung Laptop with 256GB configuration.",
+    "basePrice": 807.02
+  },
+  {
+    "name": "Pedigree Cat Food Beef 3kg",
+    "description": "Cat Food for pets with Beef flavour (3kg).",
+    "basePrice": 16.12
+  },
+  {
+    "name": "Vans Sneakers",
+    "description": "Sneakers by Vans, comfortable and durable.",
+    "basePrice": 146.29
+  },
+  {
+    "name": "Pedigree Snacks Salmon 2kg",
+    "description": "Snacks for pets with Salmon flavour (2kg).",
+    "basePrice": 49.13
+  },
+  {
+    "name": "Zara Grey Shorts",
+    "description": "Grey Shorts by Zara.",
+    "basePrice": 149.94
+  },
+  {
+    "name": "Samsung Smartphone Max",
+    "description": "Samsung Smartphone with Max configuration.",
+    "basePrice": 1655.59
+  },
+  {
+    "name": "New Balance Sandals",
+    "description": "Sandals by New Balance, comfortable and durable.",
+    "basePrice": 232.68
+  },
+  {
+    "name": "New Balance Boots",
+    "description": "Boots by New Balance, comfortable and durable.",
+    "basePrice": 137.31
+  },
+  {
+    "name": "Purina Snacks Chicken 1kg",
+    "description": "Snacks for pets with Chicken flavour (1kg).",
+    "basePrice": 7.14
+  },
+  {
+    "name": "Samsung Laptop Pro",
+    "description": "Samsung Laptop with Pro configuration.",
+    "basePrice": 762.36
+  },
+  {
+    "name": "Royal Canin Cat Food Turkey 4kg",
+    "description": "Cat Food for pets with Turkey flavour (4kg).",
+    "basePrice": 45.8
+  },
+  {
+    "name": "Adidas Blue T-Shirt",
+    "description": "Blue T-Shirt by Adidas.",
+    "basePrice": 34.27
+  },
+  {
+    "name": "Vans Boots",
+    "description": "Boots by Vans, comfortable and durable.",
+    "basePrice": 93.17
+  },
+  {
+    "name": "H&M Green Jeans",
+    "description": "Green Jeans by H&M.",
+    "basePrice": 39.71
+  },
+  {
+    "name": "Whiskas Dog Food Turkey 5kg",
+    "description": "Dog Food for pets with Turkey flavour (5kg).",
+    "basePrice": 29.17
+  },
+  {
+    "name": "Pedigree Snacks Chicken 3kg",
+    "description": "Snacks for pets with Chicken flavour (3kg).",
+    "basePrice": 43.45
+  },
+  {
+    "name": "Adidas Sneakers",
+    "description": "Sneakers by Adidas, comfortable and durable.",
+    "basePrice": 104.3
+  },
+  {
+    "name": "LG Headphones Pro",
+    "description": "LG Headphones with Pro configuration.",
+    "basePrice": 1302.29
+  },
+  {
+    "name": "Xiaomi Smartwatch 256GB",
+    "description": "Xiaomi Smartwatch with 256GB configuration.",
+    "basePrice": 353.46
+  },
+  {
+    "name": "Purina Cat Food Turkey 5kg",
+    "description": "Cat Food for pets with Turkey flavour (5kg).",
+    "basePrice": 16.58
+  },
+  {
+    "name": "Whiskas Cat Food Chicken 2kg",
+    "description": "Cat Food for pets with Chicken flavour (2kg).",
+    "basePrice": 59.77
+  },
+  {
+    "name": "Nike Running Shoes",
+    "description": "Running Shoes by Nike, comfortable and durable.",
+    "basePrice": 55.41
+  },
+  {
+    "name": "Converse Sneakers",
+    "description": "Sneakers by Converse, comfortable and durable.",
+    "basePrice": 35.3
+  },
+  {
+    "name": "New Balance Sandals",
+    "description": "Sandals by New Balance, comfortable and durable.",
+    "basePrice": 157.74
+  },
+  {
+    "name": "Royal Canin Cat Food Turkey 1kg",
+    "description": "Cat Food for pets with Turkey flavour (1kg).",
+    "basePrice": 18.1
+  },
+  {
+    "name": "H&M Red Shorts",
+    "description": "Red Shorts by H&M.",
+    "basePrice": 104.68
+  },
+  {
+    "name": "Adidas Sneakers",
+    "description": "Sneakers by Adidas, comfortable and durable.",
+    "basePrice": 102.16
+  },
+  {
+    "name": "Apple Smartwatch Mini",
+    "description": "Apple Smartwatch with Mini configuration.",
+    "basePrice": 1414.76
+  },
+  {
+    "name": "New Balance Sneakers",
+    "description": "Sneakers by New Balance, comfortable and durable.",
+    "basePrice": 180.75
+  },
+  {
+    "name": "Puma Red Jacket",
+    "description": "Red Jacket by Puma.",
+    "basePrice": 59.02
+  },
+  {
+    "name": "Purina Dog Food Beef 4kg",
+    "description": "Dog Food for pets with Beef flavour (4kg).",
+    "basePrice": 9.11
+  },
+  {
+    "name": "Xiaomi Smartwatch Ultra",
+    "description": "Xiaomi Smartwatch with Ultra configuration.",
+    "basePrice": 1678.91
+  },
+  {
+    "name": "Royal Canin Snacks Chicken 4kg",
+    "description": "Snacks for pets with Chicken flavour (4kg).",
+    "basePrice": 22.7
+  },
+  {
+    "name": "Pedigree Snacks Beef 5kg",
+    "description": "Snacks for pets with Beef flavour (5kg).",
+    "basePrice": 51.48
+  },
+  {
+    "name": "Whiskas Snacks Salmon 5kg",
+    "description": "Snacks for pets with Salmon flavour (5kg).",
+    "basePrice": 37.4
+  },
+  {
+    "name": "Nike Sandals",
+    "description": "Sandals by Nike, comfortable and durable.",
+    "basePrice": 123.2
+  },
+  {
+    "name": "Puma Blue T-Shirt",
+    "description": "Blue T-Shirt by Puma.",
+    "basePrice": 72.16
+  },
+  {
+    "name": "Purina Dog Food Beef 5kg",
+    "description": "Dog Food for pets with Beef flavour (5kg).",
+    "basePrice": 46.81
+  },
+  {
+    "name": "Whiskas Snacks Salmon 5kg",
+    "description": "Snacks for pets with Salmon flavour (5kg).",
+    "basePrice": 38.16
+  },
+  {
+    "name": "Zara Red Jacket",
+    "description": "Red Jacket by Zara.",
+    "basePrice": 31.39
+  },
+  {
+    "name": "H&M Blue Shorts",
+    "description": "Blue Shorts by H&M.",
+    "basePrice": 130.71
+  },
+  {
+    "name": "Huawei Headphones 256GB",
+    "description": "Huawei Headphones with 256GB configuration.",
+    "basePrice": 295.92
+  },
+  {
+    "name": "Xiaomi Headphones Mini",
+    "description": "Xiaomi Headphones with Mini configuration.",
+    "basePrice": 649.06
+  },
+  {
+    "name": "Adidas Running Shoes",
+    "description": "Running Shoes by Adidas, comfortable and durable.",
+    "basePrice": 90.02
+  },
+  {
+    "name": "Adidas Running Shoes",
+    "description": "Running Shoes by Adidas, comfortable and durable.",
+    "basePrice": 142.15
+  },
+  {
+    "name": "Nike Red Shorts",
+    "description": "Red Shorts by Nike.",
+    "basePrice": 46.01
+  },
+  {
+    "name": "Purina Cat Food Chicken 3kg",
+    "description": "Cat Food for pets with Chicken flavour (3kg).",
+    "basePrice": 12.42
+  },
+  {
+    "name": "Purina Snacks Chicken 2kg",
+    "description": "Snacks for pets with Chicken flavour (2kg).",
+    "basePrice": 33.77
+  },
+  {
+    "name": "Apple Smartphone Mini",
+    "description": "Apple Smartphone with Mini configuration.",
+    "basePrice": 792.86
+  },
+  {
+    "name": "Whiskas Snacks Salmon 1kg",
+    "description": "Snacks for pets with Salmon flavour (1kg).",
+    "basePrice": 51.62
+  },
+  {
+    "name": "Reebok Green Jacket",
+    "description": "Green Jacket by Reebok.",
+    "basePrice": 133.31
+  },
+  {
+    "name": "Samsung Tablet 4K",
+    "description": "Samsung Tablet with 4K configuration.",
+    "basePrice": 336.17
+  },
+  {
+    "name": "LG Laptop Pro",
+    "description": "LG Laptop with Pro configuration.",
+    "basePrice": 227.54
+  },
+  {
+    "name": "Adidas Boots",
+    "description": "Boots by Adidas, comfortable and durable.",
+    "basePrice": 137.03
+  },
+  {
+    "name": "Sony TV 64GB",
+    "description": "Sony TV with 64GB configuration.",
+    "basePrice": 1664.03
+  },
+  {
+    "name": "Xiaomi Headphones 256GB",
+    "description": "Xiaomi Headphones with 256GB configuration.",
+    "basePrice": 1312.15
+  },
+  {
+    "name": "Pedigree Dog Food Chicken 4kg",
+    "description": "Dog Food for pets with Chicken flavour (4kg).",
+    "basePrice": 56.33
+  },
+  {
+    "name": "Pedigree Cat Food Turkey 1kg",
+    "description": "Cat Food for pets with Turkey flavour (1kg).",
+    "basePrice": 47.91
+  },
+  {
+    "name": "Apple Headphones Max",
+    "description": "Apple Headphones with Max configuration.",
+    "basePrice": 2383.19
+  },
+  {
+    "name": "Royal Canin Cat Food Beef 5kg",
+    "description": "Cat Food for pets with Beef flavour (5kg).",
+    "basePrice": 59.85
+  },
+  {
+    "name": "Converse Running Shoes",
+    "description": "Running Shoes by Converse, comfortable and durable.",
+    "basePrice": 127.97
+  },
+  {
+    "name": "Nike Sneakers",
+    "description": "Sneakers by Nike, comfortable and durable.",
+    "basePrice": 96.67
+  },
+  {
+    "name": "Royal Canin Snacks Beef 4kg",
+    "description": "Snacks for pets with Beef flavour (4kg).",
+    "basePrice": 31.65
+  },
+  {
+    "name": "Huawei Laptop 256GB",
+    "description": "Huawei Laptop with 256GB configuration.",
+    "basePrice": 2124.18
+  },
+  {
+    "name": "Converse Sandals",
+    "description": "Sandals by Converse, comfortable and durable.",
+    "basePrice": 50.88
+  },
+  {
+    "name": "Royal Canin Dog Food Turkey 5kg",
+    "description": "Dog Food for pets with Turkey flavour (5kg).",
+    "basePrice": 55.98
+  },
+  {
+    "name": "Apple Headphones Ultra",
+    "description": "Apple Headphones with Ultra configuration.",
+    "basePrice": 1161.34
+  },
+  {
+    "name": "Zara Black Hoodie",
+    "description": "Black Hoodie by Zara.",
+    "basePrice": 37.93
+  }
+]
